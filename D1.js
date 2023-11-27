@@ -49,6 +49,8 @@ let x = 12;
 */
 /* SCRIVI QUI LA TUA RISPOSTA */
 myName = "Andrisani";
+const myName1 = "Francesco";
+myName1 = "Andrisani";
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
